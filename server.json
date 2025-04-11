@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 0,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2025-04-03T12:42:46.047Z"
+    },
+    {
+      "id": 2,
+      "description": "Pizza",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2025-04-03T12:42:46.047Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2025-04-03T12:42:46.047Z"
+    },
+    {
+      "description": "Teste de app",
+      "price": 3000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-04-03T19:01:09.062Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte natural",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-04-03T19:12:21.797Z",
+      "id": 5
+    }
+  ]
+}
