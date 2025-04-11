@@ -24,7 +24,7 @@ Users should be able to:
 - Add new transactions, whether income or outcome
 
 ### Screenshot
-![](./src/assets/capa.png)
+![](./src/assets/Capa.png)
 
 ## My process
 
