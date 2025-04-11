@@ -24,8 +24,7 @@ Users should be able to:
 - Add new transactions, whether income or outcome
 
 ### Screenshot
-![](./src/assets/dt-money-mobile.jpg)
-![](./src/assets/dt-money-web.jpg)
+![](./src/assets/capa.png)
 
 ## My process
 
